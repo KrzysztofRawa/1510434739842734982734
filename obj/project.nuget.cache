@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D5V6gsqAb069l6kOd9tU+fjwjL3F56eVrXosqiEp9vQG/QKh8T18TJS2Rg5lmkTXrRLIhabvYeTWhIrw8WZTCg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\KrzysztofRawa\\Downloads\\1510Decomp\\Assembly-CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrzysztofRawa\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\KrzysztofRawa\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.3\\microsoft.netframework.referenceassemblies.net40.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
